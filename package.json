@@ -1,0 +1,11 @@
+{
+  "name": "tailwindtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build-css": "tailwind build -i src/styles.css -o public/style.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
